@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @souravgopal25
-- 👀 I’m interested in Backend Development, Devops
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning how to design scallable Systems.
 - 💞️ I’m looking to collaborate on intresting projects which involves designing systems at scale.
 - 📫 How to reach me souravgopal25@gmail.com
